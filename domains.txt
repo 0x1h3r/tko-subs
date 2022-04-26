@@ -1,6 +1,1 @@
-test.com
-anshumanbhartiya.com
-www.anshumanbhartiya.com
-github.anshumanbhartiya.com
-helpscout.anshumanbhartiya.com
-bitbucket.anshumanbhartiya.com
+https://acute-alligator-exwk5vo.herokuapp.com/
